@@ -14,6 +14,8 @@ This dashboard visualization provides many high level insights into the Survey D
 ### Filtered by Data Scientist Submissions
 <img width="800" src="https://github.com/user-attachments/assets/83529771-c4cc-4b10-828b-6d8ec31783da">
 
+When filtering the survey results by Data Scientists, we can find that they have a higher satisfaction rating compared to the survey average (6.12 vs 5.74 and 5.68 vs 4.27). Additionally, over half of the Data Scientists agree that their work duties are neither too easy nor too difficult. The survey was completed by 25 Data Scientists, with an average age of 29.8 years
+
 ## Technologies Used
 <img width="50" height="50" src="https://github.com/user-attachments/assets/d46bf84f-b776-4af2-b018-050d57322656">
 <img width="50" height="50" src="https://github.com/user-attachments/assets/4c63e159-3661-4d42-ace9-e21811966ede">
