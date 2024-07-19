@@ -1,5 +1,5 @@
 # PowerBI Survey Dashboard
-## Dashboard Image
+
 <img width="800" src="https://github.com/user-attachments/assets/86ee1331-1e75-4fde-9907-29b4acd92409">
 
 ## About the Data
